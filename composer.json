@@ -1,0 +1,12 @@
+{
+    "name": "luciano-jr/omninvoice",
+    "description": "The simple gateway to process invoices",
+    "authors": [
+        {
+            "name": "Luciano Jr",
+            "email": "luciano@lucianojr.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
